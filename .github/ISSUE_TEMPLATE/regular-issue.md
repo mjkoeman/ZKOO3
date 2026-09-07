@@ -1,3 +1,12 @@
+---
+name: Standard Issue
+about: Regular Issue template
+title: "[Issue] "
+labels: issue
+assignees: ""
+---
+
+
 ## Omschrijving
 
 

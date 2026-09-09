@@ -12,13 +12,12 @@ Het doel van het document is om een samenwerkingsstructuur te creëren met daarn
 
 ## Rollen:
 
-- Project manager: Samantha
-- Medewerkers: Connor, Chris, Miranda
-
+- Projectleider: Nathalie Koeman
+- Projectleden: Maiwand Arman, Chris Carley en Connor Weerts
 
 ## Interne communicatie
 
-De volgende kanalen kunnen door een groepslid worden gekozen als manier van communicatie tijdens het project.
+De volgende communicatiekanalen worden gebruikt als communicatiemiddel:
 
 - In persoon.
 - Via WhatsApp.
